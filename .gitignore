@@ -1,0 +1,68 @@
+# ------------------------
+# OS / Editor junk
+# ------------------------
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+
+# ------------------------
+# Python
+# ------------------------
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+*.egg
+build/
+dist/
+
+
+# ------------------------
+# Virtual environments
+# ------------------------
+.venv/
+venv/
+env/
+
+
+# ------------------------
+# Jupyter
+# ------------------------
+**/.ipynb_checkpoints/
+
+
+# ------------------------
+# Data Processing
+# ------------------------
+# Ignore all subdirectories inside DataProcessing/
+DataProcessing/*/
+
+
+# ------------------------
+# Experiments
+# ------------------------
+# Ignore everything under Experiments
+Experiments/**
+
+# Allow the base folder
+!Experiments/
+
+# Allow specific folder(s)
+!Experiments/BESKID_ExperimentalData/
+
+# Keep only the README in those folder(s)
+!Experiments/BESKID_ExperimentalData/README.md
+
+# Ignore everything else inside the folder(s)
+Experiments/BESKID_ExperimentalData/*
+!Experiments/BESKID_ExperimentalData/README.md
+
+
+# ------------------------
+# Logs / misc
+# ------------------------
+*.log
+*.out
+*.err
