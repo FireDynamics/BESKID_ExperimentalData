@@ -9,3 +9,4 @@ The materials have been examined in various experimental setups, across differen
 - Micro-scale combustion calorimetry (MCC)
 - Differential scanning calorimetry (DSC)
 - Cone calorimetry
+- Flame spread experiments
