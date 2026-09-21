@@ -16,7 +16,7 @@ For all orientations, samples were tightly fitted into a water-cooled aluminium 
 
 In the lateral orientation, an additional experiment using a calcium silicate (CaSiCO3) sample holder was conducted. As with the aluminium holder, the sample was tightly fitted into the holder. In this case, the lateral and rear faces were considered thermally insulated.
 
-Temperature measurements were taken using K-type thermocouples (diameter of 0.25 mm) which were fused to the sample surface. Four thermocouples were positioned along the centre line of the sample at 50 mm, 100 mm, 150 mm and 200 mm away from the ignition end. 
+Temperature measurements were taken using K-type thermocouples (diameter of 0.25 mm) which were fused to the sample surface. Four thermocouples were positioned along the centre line of the sample at 40 mm, 80 mm, 120 mm and 160 mm away from the ignition end. 
 
 
 
